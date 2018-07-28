@@ -11,8 +11,6 @@
    
  **************************************************************************************************/
 
-
-
 public  class PrimeNumber {
 
 /**
@@ -38,3 +36,9 @@ public  class PrimeNumber {
         return prime;
     }
 }
+
+
+/**
+ * How to execute
+ * system.debug(PrimeNumber.isPrime(27));
+ */
