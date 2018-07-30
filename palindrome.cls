@@ -35,3 +35,8 @@ public class palindrome {
     }
 }
 
+/**
+* Debug :-
+   System.debug(palindrome.palindrome('Test'));
+*
+*/
