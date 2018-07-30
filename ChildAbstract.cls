@@ -4,3 +4,10 @@ public class ChildAbstract extends ParentAbstract {
         System.debug('Override');
     }
 }
+
+/**
+ * Debug :-
+        `ParentAbstract p = new ChildAbstract();
+         p.m1();
+*
+*/
