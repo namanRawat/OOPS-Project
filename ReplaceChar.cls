@@ -37,7 +37,7 @@ public class ReplaceChar {
 
 /** 
 * Debug :-
-String[] arr= new String[]{'naman0','joey','chandler'};
+String[] arr= new String[]{'David','John','Richard'};
   arr = ReplaceChar.replace(arr,'b');
 for(String a:arr){
     System.debug(a);
