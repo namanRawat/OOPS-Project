@@ -31,3 +31,9 @@ public with sharing class StringLength {
         return len;
     }
 }
+
+/**
+* Debug :-
+	System.debug(StringLength.getLength('Test'));
+*
+*/
