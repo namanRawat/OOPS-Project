@@ -30,3 +30,10 @@ public class UniqueNumber {
         
     }
 }
+
+/**
+* Debug :-
+	Integer[] arr= new Integer[]{1,2,3,2,4};
+	UniqueNumber.uniqueEle(arr);
+*
+*/
