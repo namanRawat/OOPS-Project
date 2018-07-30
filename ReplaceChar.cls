@@ -34,3 +34,13 @@ public class ReplaceChar {
         return ret;
     }
 }
+
+/** 
+* Debug :-
+String[] arr= new String[]{'naman0','joey','chandler'};
+  arr = ReplaceChar.replace(arr,'b');
+for(String a:arr){
+    System.debug(a);
+}
+*
+*/
