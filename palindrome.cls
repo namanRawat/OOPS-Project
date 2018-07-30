@@ -37,6 +37,6 @@ public class palindrome {
 
 /**
 * Debug :-
-   System.debug(palindrome.palindrome('Test'));
+   System.debug(palindrome.palindrome('naman'));
 *
 */
