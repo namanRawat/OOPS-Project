@@ -4,3 +4,10 @@ public class Child  extends Parent{
         System.debug('Child');
     }
 }
+
+/**
+* Debug :-
+    Child c =new Child();
+    c.m1();
+*
+*/
